@@ -13,9 +13,24 @@ Topics include:
 5. Sharing with others
 
 ## Tutorial
-### Login to your ArcGIS Online Account
-### Create a Feature Layer
+### Login to your ArcGIS Online Account  
+1. Go to [https://stanford.maps.arcgis.com/home/signin.html](https://stanford.maps.arcgis.com/home/signin.html) and **Login** using your **SUNetID & Password** using the Stanford University option.  
+
+  ![Stanford SSO](./images/stanford_sso.png)
+
+
+  ### Create a Feature Layer  
+
+2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature** layer dialog.  
+  ![Create a layer](./images/create_layer.gif)
+3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
+
+  ![Create a layer](./images/pointlinepoly.gif)  
+4. **Rename** the individual **point, line and polygon layers**.
+
+
 ### Customize Feature Layer Settings
 ### Add Custom Fields
 ### Add to a Map Viewer
 ### Customizing Symbology
+
