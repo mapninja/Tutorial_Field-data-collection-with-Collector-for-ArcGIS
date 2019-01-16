@@ -24,8 +24,7 @@ Topics include:
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature** layer dialog.  
   ![Create a layer](./images/create_layer.gif)
 3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
-
-  ![Create a layer](./images/pointlinepoly.gif)  
+  ![Create a layer](./images/pointlinepoly.gif)
 4. **Rename** the individual **point, line and polygon layers**.
 
 
