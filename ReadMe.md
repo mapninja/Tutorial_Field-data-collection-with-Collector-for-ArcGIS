@@ -56,9 +56,8 @@ Other| 4
 12. Create another field named ***Label*** that is a **String**.   
 12. Create another field named ***Notes*** that is a **String**.   
   ![Create custom fields](./images/??.gif)   
-
   Since you want to be able to attach pictures showing the POIs in the Walking Tour, enable attachments:  
-13. Go to the **Overview tab** of the item details page, scroll to the **layers list**, and click **Enable Attachments** for the Places layer.  
+14. Go to the **Overview tab** of the item details page, scroll to the **layers list**, and click **Enable Attachments** for the Places layer.  
   ![Enable attachments](./images/??.gif)   
 
 
