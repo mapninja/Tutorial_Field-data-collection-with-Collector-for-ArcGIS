@@ -50,7 +50,8 @@ Art| 0
 Architecture| 1
 Gadgetry| 2
 History| 3
-Other| 4   
+Other| 4  
+
   ![List items](./images/??.gif)  
 11. Click **Save**.   
 12. Create another field named ***Label*** that is a **String**.   
