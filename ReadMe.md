@@ -80,17 +80,17 @@ Other| 4
 4. Click **Change Style** for the **Places layer**, Choose to show the **POI Type** attribute.  
   ![Add symbology](./images/??.gif)  
 5. Click **Options** for the **Types (Unique symbols)** drawing style.
-6. Click the symbol next to Art POI Type, click Shape, choose . Set it to a size of 30 and click OK.
+6. Click the **symbol** next to the **Art** POI Type, click **Shape**, choose an appropriate symbol and set it to a size of **20**, then click O****K.
   ![Customize symbology](./images/??.gif)  
 7. Configure the symbols for the each of your other POI Types. Explore the various symbology categories available.  
-8. Click OK and click Done.  
+8. Click **OK** and click **Done**.  
   ![Save custom symbology](./images/??.gif)  
-8. Click Edit, click Manage, and click Save Changes.  
+8. Click **Edit**, click **Manage**, and click **Save Changes**.  
   ![Create the feature template](./images/??.gif)  
-  This creates feature templates that Collector will use as the POI types available in the app.
-9. Change the basemap to OpenStreetMap
+  *This creates feature templates that Collector will use as the POI types available in the app*.
+9. Change the **basemap** to **OpenStreetMap**
     ![Change basemap](./images/??.gif)  
-9. Save the map.  
+9. Save the **map**.  
   ![Final webmap](./images/??.gif)  
 
   ## Part 3: Record Points of Interest with Collector  
