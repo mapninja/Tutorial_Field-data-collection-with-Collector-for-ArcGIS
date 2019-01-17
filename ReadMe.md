@@ -19,7 +19,7 @@ Participants will:
   ![Stanford SSO](./images/stanford_sso.png)
 
 
-  ## Part 1: Create a Feature Layer  
+## Part 1: Create a Feature Layer  
 
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature layer** dialog.  
   ![Create a feature layer](./images/??.gif)
@@ -69,7 +69,7 @@ Other| 4
 13. Go to the **Overview tab** of the item details page, scroll to the **layers list**, and click **Enable Attachments** for the Places layer.  
   ![Enable attachments](./images/??.gif)  
 
-  ## Part 2: Make a map  
+## Part 2: Make a map  
 
 1. Still on the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
   ![Add to map](./images/??.gif)  
@@ -93,7 +93,7 @@ Other| 4
 9. Save the **map**.  
   ![Final webmap](./images/??.gif)  
 
-  ## Part 3: Record Points of Interest with Collector  
+## Part 3: Record Points of Interest with Collector  
   
   Open Collector, using "**stanford**" as your organization, and your SUNetID and password. 
 
