@@ -84,18 +84,21 @@ Other| 4
   ![Customize symbology](./images/??.gif)  
 7. Configure the symbols for the each of your other POI Types. Explore the various symbology categories available.  
 8. Click OK and click Done.  
-  ![Create a point, line and polygon layer](./images/??.gif)  
+  ![Save custom symbology](./images/??.gif)  
 8. Click Edit, click Manage, and click Save Changes.  
-  ![Create a point, line and polygon layer](./images/??.gif)  
-  This creates feature templates that Collector will use as the types of assets you can add to the map.
-9. Save and name the map.  
+  ![Create the feature template](./images/??.gif)  
+  This creates feature templates that Collector will use as the POI types available in the app.
+9. Change the basemap to OpenStreetMap
+    ![Change basemap](./images/??.gif)  
+9. Save the map.  
+  ![Final webmap](./images/??.gif)  
 
+  ## Part 3: Record Points of Interest with Collector  
+  
+  Open Collector, using "**stanford**" as your organization, and your SUNetID and password. 
 
-  ## Part 3: Capture park assets in Collector
-  Open Collector, using "stanford" as your organization, and your SUNetID and password. 
-
-1. Choose the map you just made.
+1. Choose the map you just made.  
+2. 
 Note: Either sign in with the same account you used to make the map, or share the map with a group and sign in as a user that is a member of that group.
-Walk around your local park, adding picnic tables, restrooms, and water fountains. If you aren’t sure how to add them, see the blog on capturing your local park.
-Now you’ve prepared and used your own layer in Collector. Think about what assets and observations your organization would like to bring into its GIS, and how you’ll design layers for those data collection projects.
+Walk around campus, adding public art, historically significant locations, various technology around campus, and "other" locations (picnic tables, restrooms, water fountains, etc...). 
 
