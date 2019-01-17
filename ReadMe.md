@@ -92,3 +92,4 @@ Open Collector, using "**stanford**" as your organization, and your SUNetID and 
 Note: Either sign in with the same account you used to make the map, or share the map with a group and sign in as a user that is a member of that group.
 Walk around campus, adding public art, historically significant locations, various technology around campus, and "other" locations (picnic tables, restrooms, water fountains, etc...). 
 
+*This tutorial was adapted from the excellent "[Make your first Collector map](https://www.esri.com/arcgis-blog/products/collector/field-mobility/make-your-first-collector-map/)" tutorial by Kylie Donia, of Esri*.
