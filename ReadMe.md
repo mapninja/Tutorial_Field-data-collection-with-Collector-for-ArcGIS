@@ -12,15 +12,11 @@ Participants will:
 * enable attachments, including photos
 * customize user interface to streamline data collection
 
-## Tutorial
-### Login to your ArcGIS Online Account  
+
+## Part 1: Create a Feature Layer  
 1. Go to [https://stanford.maps.arcgis.com/home/signin.html](https://stanford.maps.arcgis.com/home/signin.html) and **Login** using your **SUNetID & Password** using the Stanford University option.  
 
   ![Stanford SSO](./images/stanford_sso.png)
-
-
-## Part 1: Create a Feature Layer  
-
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature layer** dialog.  
   ![Create a feature layer](./images/??.gif)
 3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
@@ -67,10 +63,10 @@ Other| 4
 
   Since you want to be able to attach pictures showing the POIs in the Walking Tour, enable attachments:  
 13. Go to the **Overview tab** of the item details page, scroll to the **layers list**, and click **Enable Attachments** for the Places layer.  
-  ![Enable attachments](./images/??.gif)  
+  ![Enable attachments](./images/??.gif)   
+
 
 ## Part 2: Make a map  
-
 1. Still on the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
   ![Add to map](./images/??.gif)  
 2. **Save** your map, giving it a title "**Walking Tour [***Your initials***]**" and a **tag**.  
