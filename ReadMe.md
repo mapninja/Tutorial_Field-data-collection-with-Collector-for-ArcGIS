@@ -26,7 +26,6 @@ Participants will:
   point|Place
   line|Path
   polygon|Area of Interest  
-  
   ![Rename the layers](./images/??.gif)  
 5. Set the **extent** for your layer and click **Next**.  
   ![Set the extent](./images/??.gif)  
@@ -51,9 +50,8 @@ Art| 0
 Architecture| 1
 Gadgetry| 2
 History| 3
-Other| 4  
-
-  ![Create a point, line and polygon layer](./images/??.gif)   
+Other| 4   
+  ![Create a point, line and polygon layer](./images/??.gif)  
 11. Click **Save**.   
 12. Create another field named ***Label*** that is a **String**.   
 12. Create another field named ***Notes*** that is a **String**.   
