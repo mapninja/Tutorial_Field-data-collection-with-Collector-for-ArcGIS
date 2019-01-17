@@ -94,10 +94,10 @@ Other| 4
   ![Final webmap](./images/??.gif)  
 
 ## Part 3: Record Points of Interest with Collector  
-  
-  Open Collector, using "**stanford**" as your organization, and your SUNetID and password. 
+Open Collector, using "**stanford**" as your organization, and your SUNetID and password.  
 1. Choose the map you just made.  
-2. 
+2. To add a feature, touch the + sign and follow the prompts.
+
 Note: Either sign in with the same account you used to make the map, or share the map with a group and sign in as a user that is a member of that group.
 Walk around campus, adding public art, historically significant locations, various technology around campus, and "other" locations (picnic tables, restrooms, water fountains, etc...). 
 
