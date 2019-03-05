@@ -36,15 +36,23 @@ Participants will:
   ![Rename the layers](./images/CreateFeatures.gif)  
   
 
-  Your **Walking Tour layer** is created and its item details page should open. In the following steps you’ll create the fields that define the form for the Places layer.
+  Your **Walking Tour layer** is created and its item details page should open. In the following steps you’ll create the fields that define the form for the Places layer.  
+  
+    ![List items](./images/overview.png)  
 
 7. Go to the **Data tab** of the item page and go to **Fields**. If you created layers for points, lines, and polygons, verify that ***Place*** is chosen in the list of layers.  
-  ![Data tab](./images/??.gif)  
+
+  ![Data tab](./images/fields.png)  
+  
 8. Click **Add**. Give a name ***PlaceType*** and an alias ***Point of Interest Type***. Choose type: **String**. Accept the other defaults and click **Add New Field**.  
-  ![Add a field](./images/??.gif)  
+
+  ![Add a field](./images/addfield.png)   
+  
 9. Click ***Point of Interest*** in the Display Name list and click **Create List** to create a list of choices for the **POI Types**.
 Type a label of **Art** with a code of **0**.  
-  ![Create a list](./images/??.gif)  
+
+  ![Create a list](./images/addlist.png)  
+  
 10. Add entries for the following:  
  
   label|code
@@ -55,15 +63,17 @@ Gadgetry| 2
 History| 3
 Other| 4  
 
-  ![List items](./images/??.gif)  
+  ![Create custom fields](./images/listofvalues.png)  
   
 11. Click **Save**.   
 12. Create another field named ***Label*** that is a **String**.   
-12. Create another field named ***Notes*** that is a **String**.   
-  ![Create custom fields](./images/??.gif)   
+12. Create another field named ***Notes*** that is a **String**.  
+ 
+  ![Create custom fields](./images/newfields.png)   
+  
   Since you want to be able to attach pictures showing the POIs in the Walking Tour, enable attachments:  
 14. Go to the **Overview tab** of the item details page, scroll to the **layers list**, and click **Enable Attachments** for the Places layer.  
-  ![Enable attachments](./images/??.gif)   
+  ![Enable attachments](./images/enableattach.png)   
 
 
 ## Part 2: Make a map  
