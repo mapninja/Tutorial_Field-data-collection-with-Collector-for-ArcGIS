@@ -17,16 +17,18 @@ Participants will:
 1. Go to [https://stanford.maps.arcgis.com/home/signin.html](https://stanford.maps.arcgis.com/home/signin.html) and **Login** using your **SUNetID & Password** using the Stanford University option.  
   ![Stanford SSO](./images/stanford_sso.png)
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature layer** dialog.  
-  ![Create a feature layer](./images/??.gif)
+  ![Create a feature layer](./images/createcontent.gif)
 3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
   ![Create a point, line and polygon layer](./images/??.gif)
-4. **Rename** the individual **point, line and polygon layers**.  
+4. **Rename** the individual **point, line and polygon layers**  
+  
   shape|name
   ----:|:----
   point|Place
   line|Path
   polygon|Area of Interest  
-  ![Rename the layers](./images/??.gif)  
+  
+  ![Rename the layers](./images/CreateFeatures.gif)  
 5. Set the **extent** for your layer and click **Next**.  
   ![Set the extent](./images/??.gif)  
 6. Provide a **title**, like "**Walking Tour**".  *Since this must be a unique name in your organization, you might need to include your initials if others have followed these same steps*. Click **Done**.  
