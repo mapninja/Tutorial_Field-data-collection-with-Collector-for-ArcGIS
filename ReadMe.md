@@ -78,13 +78,22 @@ Other| 4
 
 ## Part 2: Make a map  
 1. Still on the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
-  ![Add to map](./images/??.gif)  
+
+  ![Add to map](./images/addtomap.png)  
+  
+  
 2. **Save** your map, giving it a title "**Walking Tour [***Your initials***]**" and a **tag**.  
-  ![Save and name](./images/??.gif)  
+
+  ![Save and name](./images/savemapas.png)  
+  
 3. In the **Contents pane**, hover over the layer of places, click **More Options**, choose **Rename**, and rename the layer of places to Places.  
-  ![Rename](./images/??.gif)  
+
+  ![Rename](./images/savemap.png)  
+
 4. Click **Change Style** for the **Places layer**, Choose to show the **POI Type** attribute.  
-  ![Add symbology](./images/??.gif)  
+
+  ![Add symbology](./images/changestyle.png)  
+
 5. Click **Options** for the **Types (Unique symbols)** drawing style.
 6. Click the **symbol** next to the **Art** POI Type, click **Shape**, choose an appropriate symbol and set it to a size of **20**, then click **OK**.  
   ![Customize symbology](./images/??.gif)  
