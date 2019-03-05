@@ -28,12 +28,13 @@ Participants will:
   line|Path
   polygon|Area of Interest  
   
-  ![Rename the layers](./images/CreateFeatures.gif)  
-5. Set the **extent** for your layer and click **Next**.  
-  ![Set the extent](./images/??.gif)  
-6. Provide a **title**, like "**Walking Tour**".  *Since this must be a unique name in your organization, you might need to include your initials if others have followed these same steps*. Click **Done**.  
-  ![Title and save](./images/??.gif)  
 
+5. Set the **extent** for your layer and click **Next**.  
+
+6. Provide a **title**, like "**Walking Tour**".  *Since this must be a unique name in your organization, you might need to include your initials if others have followed these same steps*. Click **Done**.  
+
+  ![Rename the layers](./images/CreateFeatures.gif)  
+  
 
   Your **Walking Tour layer** is created and its item details page should open. In the following steps you’ll create the fields that define the form for the Places layer.
 
