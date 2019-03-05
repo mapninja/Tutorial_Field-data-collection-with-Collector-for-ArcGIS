@@ -17,9 +17,9 @@ Participants will:
 1. Go to [https://stanford.maps.arcgis.com/home/signin.html](https://stanford.maps.arcgis.com/home/signin.html) and **Login** using your **SUNetID & Password** using the Stanford University option.  
   ![Stanford SSO](./images/stanford_sso.png)
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature layer** dialog.  
-  ![Create a feature layer](./images/createcontent.gif)
+
 3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
-  ![Create a point, line and polygon layer](./images/??.gif)
+
 4. **Rename** the individual **point, line and polygon layers**  
   
   shape|name
