@@ -96,17 +96,31 @@ Other| 4
 
 5. Click **Options** for the **Types (Unique symbols)** drawing style.
 6. Click the **symbol** next to the **Art** POI Type, click **Shape**, choose an appropriate symbol and set it to a size of **20**, then click **OK**.  
-  ![Customize symbology](./images/??.gif)  
+
+  ![Customize symbology](./images/artsymbol.png)  
+
 7. Configure the symbols for the each of your other POI Types. Explore the various symbology categories available.  
+
+  ![Save custom symbology](./images/allsymbols.png)  
+
 8. Click **OK** and click **Done**.  
-  ![Save custom symbology](./images/??.gif)  
+
+  ![Create the feature template](./images/legend.png)  
+
 8. Click **Edit**, click **Manage**, and click **Save Changes**.  
-  ![Create the feature template](./images/??.gif)  
+  
+  ![Change basemap](./images/template.png)  
+
+
   *This creates feature templates that Collector will use as the POI types available in the app*.
+
 9. Change the **basemap** to **OpenStreetMap**  
-    ![Change basemap](./images/??.gif)  
+
+   ![Change basemap](./images/basemap.png)  
+
 9. Save the **map**.  
-  ![Final webmap](./images/??.gif)  
+
+  ![Final webmap](./images/finalmap.png)  
 
 ## Part 3: Record Points of Interest with Collector  
 Open Collector, using "**stanford**" as your organization, and your SUNetID and password.  
