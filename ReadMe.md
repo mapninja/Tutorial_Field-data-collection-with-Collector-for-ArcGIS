@@ -121,9 +121,13 @@ Other| 4
 
 8. Click **Edit**, click **Manage**, and click **Save Changes**.  
   
-  ![Change basemap](./images/template.png)
+  ![Change basemap](./images/template.png)  
   
-9. Click on the ellipsis (...) at the end of the Places layer item and go to "Configure Popup"
+*This creates feature templates that Collector will use as the POI types available in the app*.
+  
+9. Click on the ellipsis (...) at the end of the Places layer item and go to "Configure Pop-up"
+
+  ![Change basemap](./images/configmenu.png)
 
 10.  Click on the "Configure Attributes" link, about half way down the "Configure Pop-up Panel."  
 
@@ -133,9 +137,7 @@ Other| 4
 
    ![Change basemap](./images/configattributes.png)  
    
-13. Click OK, twice, to commit your changes and close the COnfigure Pop-ups panel. 
-  
-*This creates feature templates that Collector will use as the POI types available in the app*.
+13. Click OK, twice, to commit your changes and close the Configure Pop-ups panel. 
 
 9. Change the **basemap** to **OpenStreetMap**  
 
