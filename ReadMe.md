@@ -14,8 +14,16 @@ Participants will:
 
 
 ## Part 1: Create a Feature Layer  
+
+### Login to arcgis.com  
+
 1. Go to [https://stanford.maps.arcgis.com/home/signin.html](https://stanford.maps.arcgis.com/home/signin.html) and **Login** using your **SUNetID & Password** using the Stanford University option.  
-  ![Stanford SSO](./images/stanford_sso.png)
+
+
+  ![Stanford SSO](./images/stanford_sso.png)  
+  
+### Create an empty feature layer
+  
 2. Go to **Content**, and in **My Content** click **Create** and choose **Feature Layer** to open the **Create a feature layer** dialog.  
 
 3. Select the **Build a layer** category, select **Points, lines, and polygons**, and click **Create**.  
@@ -39,6 +47,8 @@ Participants will:
   Your **Walking Tour layer** is created and its item details page should open. In the following steps you’ll create the fields that define the form for the Places layer.  
   
     ![List items](./images/overview.png)  
+    
+### Add fields to the feature class
 
 7. Go to the **Data tab** of the item page and go to **Fields**. If you created layers for points, lines, and polygons, verify that ***Place*** is chosen in the list of layers.  
 
@@ -47,6 +57,8 @@ Participants will:
 8. Click **Add**. Give a name ***PlaceType*** and an alias ***Point of Interest Type***. Choose type: **String**. Accept the other defaults and click **Add New Field**.  
 
   ![Add a field](./images/addfield.png)   
+  
+### Create a Domain (values list) for the places layer
   
 9. Click ***Point of Interest*** in the Display Name list and click **Create List** to create a list of choices for the **POI Types**.
 Type a label of **Art** with a code of **0**.  
@@ -109,10 +121,21 @@ Other| 4
 
 8. Click **Edit**, click **Manage**, and click **Save Changes**.  
   
-  ![Change basemap](./images/template.png)  
+  ![Change basemap](./images/template.png)
+  
+9. Click on the ellipsis (...) at the end of the Places layer item and go to "Configure Popup"
 
+10.  Click on the "Configure Attributes" link, about half way down the "Configure Pop-up Panel."  
 
-  *This creates feature templates that Collector will use as the POI types available in the app*.
+11. Check, then uncheck, the Disply checkbox, to turn off the display of all attributes in the Pop-up.
+
+12. Scroll down until you see the attributes you created [{Label},{notes},{PlaceType}] and check the Edit checkboxes (which will also check the Display checkbox)
+
+   ![Change basemap](./images/configattributes.png)  
+   
+13. Click OK, twice, to commit your changes and close the COnfigure Pop-ups panel. 
+  
+*This creates feature templates that Collector will use as the POI types available in the app*.
 
 9. Change the **basemap** to **OpenStreetMap**  
 
