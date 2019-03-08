@@ -182,6 +182,8 @@ Walk around campus, adding public art, historically significant locations, vario
 
 *This tutorial was adapted from the excellent "[Make your first Collector map](https://www.esri.com/arcgis-blog/products/collector/field-mobility/make-your-first-collector-map/)" tutorial by Kylie Donia, of Esri*.
 
+# Sections to expand on if time permits...
+
 ## Part 4: Multi-user editing
 
 ### Create a Group
