@@ -12,6 +12,12 @@ Participants will:
 * enable attachments, including photos
 * customize user interface to streamline data collection
 
+## GPS survey basics (under construction)
+
+### How does GPS work?
+### Hardware
+### Planning
+### Legal
 
 ## Part 1: Create a Feature Layer  
 
@@ -187,16 +193,10 @@ Walk around campus, adding public art, historically significant locations, vario
 ## Part 4: Multi-user editing
 
 ### Create a Group
-
 ### Share the map and feature layer with the group
-
 ### Approve group membership requests
 
 ## Working with the data
-
 ### Exporting the data
-
 ### Creating an app to show the data to others
-
-### 
 
