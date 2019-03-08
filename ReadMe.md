@@ -89,7 +89,7 @@ Other| 4
 ![Enable attachments](./images/enableattach.png)   
 
 ### Enable offline editing for Collector  
-This is a step that MUST be done before adding your feature layers to an ArcGIS Online map for creating you rediting app.
+This is a step that MUST be done before adding your feature layers to an ArcGIS Online map for creating your editing app.
 
 1. Click on the Settings tab at the top of the Feature Layer's Details page.
 
@@ -144,23 +144,33 @@ This is a step that MUST be done before adding your feature layers to an ArcGIS 
 
 10.  Click on the "Configure Attributes" link, about half way down the "Configure Pop-up Panel."  
 
-11. Check, then uncheck, the Disply checkbox, to turn off the display of all attributes in the Pop-up.
+11. **Check**, then uncheck, the Display checkbox, to turn off the display of all attributes in the Pop-up.
 
-12. Scroll down until you see the attributes you created [{Label},{notes},{PlaceType}] and check the Edit checkboxes (which will also check the Display checkbox)
+12. **Scroll** down until you see the attributes you created **[{Label},{notes},{PlaceType}]** and check the **Edit** checkboxes (which will also check the Display checkbox)
 
 ![Change basemap](./images/configattributes.png)  
    
-13. Click OK, twice, to commit your changes and close the Configure Pop-ups panel. 
+13. **Click OK**, twice, to commit your changes and close the **Configure Pop-ups** panel. 
 
-9. Change the **basemap** to **OpenStreetMap**  
+9. **Change** the **basemap** to **OpenStreetMap**  
 
 ![Change basemap](./images/basemap.png)  
 
-9. Save the **map**.  
+9. **Save** the **map**.  
 
 ![Final webmap](./images/finalmap.png)  
 
-10. 
+### Enable Offline Editing
+
+10. At the top of the Table of Contents in your map, **click** on the **Details** ![details](./images/detailsi.png) button and then on the **More Details...** link to go to the Details page of your webmap.
+
+11. **Click** on the **Settings tab** at the top of the page and scroll down to the section labeled "**Offline**."
+
+12. Make sure that "**Enable offline mode**" is active. 
+
+![offline](./images/offline.png)
+
+13. **Save** your **map settings**, if necessary. 
 
 ## Part 3: Record Points of Interest with Collector  
 Open Collector, using "**stanford**" as your organization, and your SUNetID and password.  
