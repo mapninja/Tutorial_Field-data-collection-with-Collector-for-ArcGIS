@@ -75,6 +75,7 @@ Gadgetry| 2
 History| 3
 Other| 4  
 
+
 ![Create custom fields](./images/listofvalues.png)  
   
 11. Click **Save**.   
