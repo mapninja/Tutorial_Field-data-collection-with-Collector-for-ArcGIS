@@ -88,9 +88,21 @@ Other| 4
 
 ![Enable attachments](./images/enableattach.png)   
 
+### Enable offline editing for Collector  
+This is a step that MUST be done before adding your feature layers to an ArcGIS Online map for creating you rediting app.
+
+1. Click on the Settings tab at the top of the Feature Layer's Details page.
+
+2. Make sure that settings under the Editing section at the top are all enabled, in particular that "Enable Sync" is checked.
+
+3. Note the other settings for controlling who and how data can be edited. 
+
+ ![Enable attachments](./images/featuresettings.png)  
+
+4. Click Save to save these settings.
 
 ## Part 2: Make a map  
-1. Still on the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
+1. Return to the Overview tab the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
 
 ![Add to map](./images/addtomap.png)  
   
@@ -148,6 +160,8 @@ Other| 4
 
 ![Final webmap](./images/finalmap.png)  
 
+10. 
+
 ## Part 3: Record Points of Interest with Collector  
 Open Collector, using "**stanford**" as your organization, and your SUNetID and password.  
 1. Choose the map you just made.  
@@ -157,3 +171,20 @@ Note: Either sign in with the same account you used to make the map, or share th
 Walk around campus, adding public art, historically significant locations, various technology around campus, and "other" locations (picnic tables, restrooms, water fountains, etc...). 
 
 *This tutorial was adapted from the excellent "[Make your first Collector map](https://www.esri.com/arcgis-blog/products/collector/field-mobility/make-your-first-collector-map/)" tutorial by Kylie Donia, of Esri*.
+
+## Part 4: Multi-user editing
+
+### Create a Group
+
+### Share the map and feature layer with the group
+
+### Approve group membership requests
+
+## Working with the data
+
+### Exporting the data
+
+### Creating an app to show the data to others
+
+### 
+
