@@ -46,7 +46,7 @@ Participants will:
 
   Your **Walking Tour layer** is created and its item details page should open. In the following steps you’ll create the fields that define the form for the Places layer.  
   
-![List items](./images/overview.png)  
+![List items](./images/overview.png)   
     
 ### Add fields to the feature class
 
