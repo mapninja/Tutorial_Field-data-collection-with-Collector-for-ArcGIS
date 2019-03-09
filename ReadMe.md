@@ -108,7 +108,7 @@ This is a step that MUST be done before adding your feature layers to an ArcGIS 
 4. Click Save to save these settings.
 
 ## Part 2: Make a map  
-1. Return to the Overview tab the **item page** of your layer, in the drop-down list for **Open in Map Viewer** pick **Add to new map** to start making your map.   
+1. Return to the Overview tab the **item page** of your layer, in the drop-down list for **Open in Map Viewer with Full Editing Control** pick **Add to new map** to start making your map.   
 
 ![Add to map](./images/addtomap.png)  
   
