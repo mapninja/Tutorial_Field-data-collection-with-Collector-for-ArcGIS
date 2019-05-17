@@ -141,14 +141,14 @@ Now you will add the feature layers you created to an ArcGIS.com map. This map w
 
 ![Save and name](./images/savemapas.png)  
 
-Shortening teh names of our layers in the Map will simplify the appearance of those items in the resulting Collector application.
+Shortening the names of our layers in the Map will simplify the appearance of those items in the resulting Collector application.
   
 3. In the **Contents pane**, hover over the layer of places, click **More Options**, choose **Rename**, and rename the layer of places to Places. 
 4. Repeat for the Paths & Areas layers. 
 
 ![Rename](./images/savemap.png)  
 
-4. Click **Change Style** for the **Places layer**, Choose to show the **POI Type** attribute.  
+4. Click **Change Style** for the **Places layer**, Choose to show the **Type of place** attribute.  
 
 ![Add symbology](./images/changestyle.png)  
 
@@ -224,6 +224,11 @@ Walk around campus, adding public art, historically significant locations, vario
 ### Approve group membership requests
 
 ## Working with the data
-### Exporting the data
-### Creating an app to show the data to others
+
+#### Creating a "View Layer"
+#### Create a View Map
+#### Share the View Map
+#### Creating an app to show the data to others  
+#### Exporting the data
+
 
