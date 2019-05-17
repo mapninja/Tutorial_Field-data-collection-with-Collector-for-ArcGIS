@@ -24,9 +24,18 @@ By the end of the workshop, participants should be familiar enough to create the
 ## GPS survey basics (under construction)
 
 ### How does GPS work?
+
+#### Trilateration
+#### Multipathing
+
 ### Hardware
+
+#### Consumer-Grade equipment
+#### 
+
 ### Planning
-### Legal
+### Legal   
+#### PHI and Human Subject Data
 
 ## Part 1: Create a Feature Layer  
 
