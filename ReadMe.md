@@ -129,6 +129,9 @@ This is a step that MUST be done before adding your feature layers to an ArcGIS 
 4. Click Save to save these settings.
 
 ## Part 2: Make a map  
+
+Now you will add the feature layers you created to an ArcGIS.com map. This map will drive the functionality in teh Collector for ArcGIS application, so everything we do from this point will be to improve the simplicity of use for our data collectors in the field. 
+
 1. Return to the Overview tab the **item page** of your layer, in the drop-down list for **Open in Map Viewer with Full Editing Control** pick **Add to new map** to start making your map.   
 
 ![Add to map](./images/addtomap.png)  
@@ -137,8 +140,11 @@ This is a step that MUST be done before adding your feature layers to an ArcGIS 
 2. **Save** your map, giving it a title "**Walking Tour [***Your initials***]**" and a **tag**.  
 
 ![Save and name](./images/savemapas.png)  
+
+Shortening teh names of our layers in the Map will simplify the appearance of those items in the resulting Collector application.
   
-3. In the **Contents pane**, hover over the layer of places, click **More Options**, choose **Rename**, and rename the layer of places to Places.  
+3. In the **Contents pane**, hover over the layer of places, click **More Options**, choose **Rename**, and rename the layer of places to Places. 
+4. Repeat for the Paths & Areas layers. 
 
 ![Rename](./images/savemap.png)  
 
