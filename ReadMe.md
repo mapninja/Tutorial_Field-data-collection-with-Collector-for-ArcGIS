@@ -33,7 +33,10 @@ By the end of the workshop, participants should be familiar enough to create the
 #### Consumer-Grade equipment
 #### 
 
-### Planning
+### Planning  
+#### Trimble Planning Online
+[https://www.gnssplanning.com](https://www.gnssplanning.com)  
+
 ### Legal   
 #### PHI and Human Subject Data
 
